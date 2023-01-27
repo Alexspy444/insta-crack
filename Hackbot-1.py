@@ -5,7 +5,7 @@ import time
 import asyncio
 
 red = '\033[91m'
-green = '\033[92m'
+green = '\0[92m'
 blue = '\033[94m'
 bold = '\033[1m'
 reset = '\033[0m'
